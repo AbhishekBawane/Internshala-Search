@@ -1,4 +1,4 @@
-# Internshala Clone 🚀
+# Internshala Clone
 
 A responsive **Internshala Clone** built using **React.js** that fetches internship data from the Internshala API and provides advanced filtering, searching, and pagination features.
 
@@ -23,7 +23,7 @@ A responsive **Internshala Clone** built using **React.js** that fetches interns
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React.js
 - JavaScript (ES6)
@@ -71,5 +71,5 @@ src/
 ```
 
 ## Vercel Link 
-   <>
+ ###  < https://internshala-search-git-main-crio-abhishek-bawane.vercel.app/ >
 
