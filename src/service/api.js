@@ -1,5 +1,5 @@
 import internshipsData
-from "../data/InternshalaData.json";
+from "../data/internshalaData.json";
 
 export const fetchInternships =
   async () => {
