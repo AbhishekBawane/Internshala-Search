@@ -70,6 +70,75 @@ src/
 
 ```
 
+# Installation & Setup
+
+Follow these steps to run the project locally on your machine.
+
+---
+
+## 1️. Clone the Repository
+
+```bash
+git clone <https://github.com/AbhishekBawane/Urban-Mart>
+```
+
+---
+
+## 2️. Navigate to Project Folder
+
+```bash
+cd urban-mart
+```
+
+---
+
+## 3️. Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 4️. Start Development Server
+
+```bash
+npm start
+```
+
+---
+
+## 5️. Open in Browser
+
+Visit:
+
+```bash
+http://localhost:3000
+```
+
+---
+
+# Required Packages
+
+The project uses the following main packages:
+
+```bash
+npm install react-router-dom
+npm install lucide-react
+npm install tailwindcss
+```
+
+---
+
+# Build for Production
+
+```bash
+npm run build
+```
+
+This creates an optimized production build inside the `build` folder.
+
+
 ## Vercel Link 
  ###  < https://internshala-search-git-main-crio-abhishek-bawane.vercel.app/ >
 
