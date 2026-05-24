@@ -79,7 +79,7 @@ Follow these steps to run the project locally on your machine.
 ## 1️. Clone the Repository
 
 ```bash
-git clone <https://github.com/AbhishekBawane/Urban-Mart>
+git clone <https://github.com/AbhishekBawane/Internshala-Search>
 ```
 
 ---
