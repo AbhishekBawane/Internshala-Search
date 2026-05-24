@@ -87,7 +87,7 @@ git clone <https://github.com/AbhishekBawane/Internshala-Search>
 ## 2️. Navigate to Project Folder
 
 ```bash
-cd urban-mart
+cd my-app
 ```
 
 ---
@@ -114,22 +114,11 @@ Visit:
 
 ```bash
 http://localhost:3000
+
 ```
 
 ---
-
-# Required Packages
-
-The project uses the following main packages:
-
-```bash
-npm install react-router-dom
-npm install lucide-react
-npm install tailwindcss
-```
-
----
-
+ 
 # Build for Production
 
 ```bash
